@@ -3,8 +3,8 @@ This is a project where I used the basic concepts of sql to access the data of r
 
 #### Database structure:
 
-<p float="center">
-  <img src="https://github.com/aditya-tekale-99/DataBases/blob/main/New%20York%20Restaurants/nomnom.png" width="300" />
+<p float="left">
+  <img src="https://github.com/aditya-tekale-99/DataBases/blob/main/New%20York%20Restaurants/nomnom.png" width="500" />
 </p>
 
 ### Notes:
