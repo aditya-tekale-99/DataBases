@@ -7,7 +7,7 @@ For this project, I was given three tables:
 
 Using SQL I had to answer the queries asked.
 
-Used the concept of Aggregates to finish this project:
+#### Used the concept of Aggregates to finish this project:
  - JOIN will combine rows from different tables if the join condition is true.
  - LEFT JOIN will return every row in the left table, and if the join condition is not met, NULL values are used to fill in the columns from the right table.
  - Primary key is a column that serves a unique identifier for the rows in the table.
