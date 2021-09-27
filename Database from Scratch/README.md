@@ -8,7 +8,7 @@ Built a database using PostgreSQL and Postbird from scratch using multiple conce
 
 Connected Postbird to PostgreSQl server to successfully implement this database design.
 
-The Database was created using this Schema diagram I designed: 
+### The Database was created using this Schema diagram I designed: 
 <p float="left">
   <img src="https://github.com/aditya-tekale-99/DataBases/blob/main/Database%20from%20Scratch/schema_diagram.jpg" width="500" />
 </p>
